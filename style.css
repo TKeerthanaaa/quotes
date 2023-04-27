@@ -1,0 +1,35 @@
+
+
+
+
+
+.container {
+    
+    width: 73%;
+    margin: auto;
+    height: auto;
+    
+}
+ 
+.text {
+    position:absolute;
+   top: 29%;
+   left: 47%;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+
+}
+
+.text {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.footer {
+    position: absolute;
+    bottom: 19%;
+    right: 21%;
+    color: white;
+    font-style: italic;
+    font-size: larger;
+}
